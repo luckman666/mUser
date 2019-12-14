@@ -1,5 +1,4 @@
 #!/bin/bash
-#written by aming.
  
 if [ $# -eq 0 -o $# -gt 2 ]
 then
